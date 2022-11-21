@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me: https://s.team/chat/ODtGyFRb</h3>
 <p align="left">
 </p>
-<img src="raged/page.png" width="500" height="300">
+<img src="raged/page.png" width="60" height="200">
 
 
 
