@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me: https://s.team/chat/ODtGyFRb</h3>
 <p align="left">
 </p>
-![image](https://user-images.githubusercontent.com/117606597/203118622-01bb965d-ecec-44fb-9532-8250ed4acfbd.png)
+<img src="../raged/page.png" width="300" height="300">
 
 
 <h3 align="left">Languages and Tools:</h3>
