@@ -13,7 +13,8 @@
 <h3 align="left">Connect with me: https://s.team/chat/ODtGyFRb</h3>
 <p align="left">
 </p>
-<img src="../raged/page.png" width="300" height="300">
+<img src="raged/page.png" width="300" height="300">
+
 
 
 <h3 align="left">Languages and Tools:</h3>
