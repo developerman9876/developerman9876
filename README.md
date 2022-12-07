@@ -10,7 +10,6 @@
 - 📫 How to reach me **sandssemail@yahoo.com**
 
 
-<h3 align="left">Connect with me: https://s.team/chat/ODtGyFRb</h3>
 <p align="left">
 </p>
 <img src="raged/page.png" width="1500" height="25">
