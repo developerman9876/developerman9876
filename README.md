@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm @developerman9876</h1>
-- 🔭 I’m currently working on **coding**
+- 🔭 I’m currently working on **Scripts**
 
-- 🌱 I’m currently learning **coding**
+- 🌱 I’m currently learning **Lua**
 
-- 👯 I’m looking to collaborate on **Minecraft**
+- 👯 I’m looking to collaborate on **Doors**
 
-- 🤝 I’m looking for help with **coding**
+- 🤝 I’m looking for help with **Lua**
 
 - 📫 How to reach me **sandssemail@yahoo.com**
 
