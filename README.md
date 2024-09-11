@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for help with **Lua**
 
-- 📫 How to reach me **sandssemail@yahoo.com**
+- 📫 How to reach me
 
 
 <p align="left">
