@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm @developerman9876</h1>
 
-- 🔭 I’m currently working on **Scripts**
+- 🔭 I’m currently working on **Moony Tag**
 
-- 🌱 I’m currently learning **Lua**
+- 🌱 I’m currently learning **C#**
 
-- 👯 I’m looking to collaborate on **Doors**
+- 👯 I’m looking to collaborate on **Moony Tag**
 
-- 🤝 I’m looking for help with **Lua**
+- 🤝 I’m looking for help with **Gorilla Tag Copies**
 
-- 📫 How to reach me
+- 📫 How to reach me @playfab2 (Discord)
 
 
 <p align="left">
