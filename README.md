@@ -13,7 +13,6 @@
 
 <p align="left">
 </p>
-<img src="raged/page.png" width="1500" height="25">
 
 
 
