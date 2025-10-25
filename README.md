@@ -4,10 +4,6 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 👯 I’m looking to collaborate on **Nothing**
-
-- 🤝 I’m looking for help with **Nothing**
-
 - 📫 How to reach me @playfab2 (Discord)
 
 
