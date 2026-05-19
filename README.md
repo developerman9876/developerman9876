@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Moony2HP!</h1>
 
-- 🔭 I’m currently working on **A device id based authentication system**
+- 🔭 I’m currently working on **something**
 
 - 🌱 I’m currently learning **C++**
 
